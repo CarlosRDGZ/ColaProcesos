@@ -1,0 +1,11 @@
+/home/indiana/Documents/DataStructures/Queue/bin/Debug/netcoreapp2.0/Queue.deps.json
+/home/indiana/Documents/DataStructures/Queue/bin/Debug/netcoreapp2.0/Queue.runtimeconfig.json
+/home/indiana/Documents/DataStructures/Queue/bin/Debug/netcoreapp2.0/Queue.runtimeconfig.dev.json
+/home/indiana/Documents/DataStructures/Queue/bin/Debug/netcoreapp2.0/Queue.dll
+/home/indiana/Documents/DataStructures/Queue/bin/Debug/netcoreapp2.0/Queue.pdb
+/home/indiana/Documents/DataStructures/Queue/obj/Debug/netcoreapp2.0/Queue.csprojAssemblyReference.cache
+/home/indiana/Documents/DataStructures/Queue/obj/Debug/netcoreapp2.0/Queue.csproj.CoreCompileInputs.cache
+/home/indiana/Documents/DataStructures/Queue/obj/Debug/netcoreapp2.0/Queue.AssemblyInfoInputs.cache
+/home/indiana/Documents/DataStructures/Queue/obj/Debug/netcoreapp2.0/Queue.AssemblyInfo.cs
+/home/indiana/Documents/DataStructures/Queue/obj/Debug/netcoreapp2.0/Queue.dll
+/home/indiana/Documents/DataStructures/Queue/obj/Debug/netcoreapp2.0/Queue.pdb
